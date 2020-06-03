@@ -706,15 +706,12 @@ vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so
 vendor/lib/hw/gatekeeper.sdm660.so
 vendor/lib64/hw/gatekeeper.sdm660.so
 
-
 # Keystore
 vendor/lib/hw/keystore.sdm660.so
 vendor/lib64/hw/keystore.sdm660.so
 
 # Sensors
 vendor/etc/sensors/sensor_def_qcomdev.conf
-vendor/lib/sensors.ssc.so
-vendor/lib64/sensors.ssc.so
 
 # Thermal
 vendor/etc/thermal-engine.conf
